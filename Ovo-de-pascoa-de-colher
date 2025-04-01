@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ebook "Ovos de Colher Gourmet" | Lucre na Páscoa</title>
+    <style>
+        body { font-family: 'Open Sans', sans-serif; background: #FFF8F8; }
+        .header { background: linear-gradient(45deg, #FFD1DC, #D4AF37); padding: 40px; text-align: center; }
+        .ebook-cover { width: 300px; box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+        .cta-button { background: #D4AF37; color: white; padding: 15px 30px; border-radius: 50px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Domine a Arte dos Ovos de Colher e Lucre em 2024</h1>
+        <img src="capa-ebook.png" alt="Ebook Ovos de Colher" class="ebook-cover">
+    </div>
+
+    <div style="text-align: center; padding: 30px;">
+        <h2>O que você vai aprender:</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li>✔ 9 receitas passo a passo (do básico ao premium)</li>
+            <li>✔ Tabelas de custo e precificação exata</li>
+            <li>✔ Estratégias para vender 10x mais</li>
+        </ul>
+
+        <a href="#compra" class="cta-button">QUERO MEU EBOOK AGORA!</a>
+
+        <div style="margin: 40px 0;">
+            <h3>Bônus Exclusivos:</h3>
+            <p>📌 Checklist de produção | 📌 Lista de fornecedores | 📌 Templates para redes sociais</p>
+        </div>
+
+        <div id="compra" style="background: white; padding: 20px; border-radius: 10px;">
+            <h2>De R$ 97,00 por apenas:</h2>
+            <h1 style="color: #D4AF37;">R$ 67,00</h1>
+            <p>ou 3x de R$ 22,34</p>
+            <a href="link-de-pagamento" class="cta-button">COMPRAR AGORA</a>
+            <p>⚠️ OFERTA POR TEMPO LIMITADO</p>
+        </div>
+    </div>
+</body>
+</html>
+
